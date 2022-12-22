@@ -1,1 +1,2 @@
 - Portrait Mode: Project Settings -> Android -> Orientation
+- Double overlap events can happen when a box collision overlaps with another box collision. Best to use a sphere overlap and a box overlap.
